@@ -1,7 +1,7 @@
 # ai-prep-hub-in
 This is having AI tool preparation for a Developer who wants to develop their own AI tools
 How to run the file command:
- open the Terminal in pycharm and run this command:
+ open the Terminal in pycharm  or VS code and run this command:
 
 #### streamlit run <file_location>
 ### Example
